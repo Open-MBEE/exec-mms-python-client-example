@@ -1,0 +1,16 @@
+# ElementsSearchResponse
+
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**messages** | **[str, none_type], none_type** |  | [optional] 
+**rejected** | [**[Rejection], none_type**](Rejection.md) |  | [optional] 
+**elements** | [**[Element]**](Element.md) |  | [optional] 
+**total** | **int** |  | [optional] 
+**rejected_total** | **int** |  | [optional] 
+**any string name** | **bool, date, datetime, dict, float, int, list, str, none_type** | any string name can be used but the value must be the correct type | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
